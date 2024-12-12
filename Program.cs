@@ -6,6 +6,11 @@ namespace testrepo
     {
         static void Main(string[] args)
         {
+            int a=0;
+            string pwd="test";
+            
+            a=a/0;
+            //test123
             Console.WriteLine("Hello World!");
         }
     }
