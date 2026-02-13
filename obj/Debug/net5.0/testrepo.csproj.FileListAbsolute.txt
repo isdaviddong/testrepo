@@ -1,0 +1,16 @@
+/home/runner/work/testrepo/testrepo/bin/Debug/net5.0/testrepo
+/home/runner/work/testrepo/testrepo/bin/Debug/net5.0/testrepo.deps.json
+/home/runner/work/testrepo/testrepo/bin/Debug/net5.0/testrepo.runtimeconfig.json
+/home/runner/work/testrepo/testrepo/bin/Debug/net5.0/testrepo.runtimeconfig.dev.json
+/home/runner/work/testrepo/testrepo/bin/Debug/net5.0/testrepo.dll
+/home/runner/work/testrepo/testrepo/bin/Debug/net5.0/testrepo.pdb
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.AssemblyInfoInputs.cache
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.AssemblyInfo.cs
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.csproj.CoreCompileInputs.cache
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.sourcelink.json
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.dll
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/refint/testrepo.dll
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.pdb
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/testrepo.genruntimeconfig.cache
+/home/runner/work/testrepo/testrepo/obj/Debug/net5.0/ref/testrepo.dll
